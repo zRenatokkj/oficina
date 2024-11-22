@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(195, 255, 187);
+    background-color: #ff7d59;
 }
 
 .header {
@@ -20,9 +20,9 @@ body {
 }
 
 .links a:hover {
-    color: #05e623;
-    border-top: 2px solid #05e623;
-    border-bottom: 2px solid #05e623;
+    color: #d44637;
+    border-top: 2px solid #c71c0a;
+    border-bottom: 2px solid #c71c0a;
 }
 
 .link-a-1 {
@@ -46,11 +46,11 @@ body {
 }
 
 .span-1 {
-    color: #0e8503;
+    color: #c71c0a;
 }
 
 .span-2 {
-    color: #18e605;
+    color: #d44637;
 }
 
 .secao-1 {
@@ -109,7 +109,7 @@ img {
     margin: 0.5% 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 4px solid #3f9243;
+    border: 4px solid #c71c0a;
 }
 
 .produtos img {
@@ -117,11 +117,11 @@ img {
 }
 
 .produtos li:hover {
-    border-color: #62aa5b;
+    border-color: #a11f12;
 }
 
 .produtos li:active {
-    border-color: #182920;
+    border-color: #5c0b03;
 }
 
 .produtos li:hover h2 {
