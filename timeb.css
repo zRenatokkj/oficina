@@ -1,0 +1,17 @@
+header{
+    font-size: 25px;
+    
+}
+
+nav li{
+   display: inline;
+   margin: 0.0.0 50px;
+
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
